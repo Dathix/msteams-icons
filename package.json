@@ -1,0 +1,8 @@
+{
+  "name": "msteams-icons",
+  "packageManager": "yarn@4.6.0",
+  "dependencies": {
+    "msteams-ui-icons-core": "^0.4.2",
+    "typestyle": "^2.4.0"
+  }
+}
